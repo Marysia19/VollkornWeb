@@ -1,0 +1,69 @@
+@font-face {
+    font-family: "Vollkorn-Black";
+    src: url("../fonts/Vollkorn-Black.ttf")  format('truetype'),
+    url('../fonts/') format('woff');
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: "Vollkorn-Bold";
+    src: url("../fonts/Vollkorn-Bold.ttf") format('truetype'),
+      url('../fonts/Vollkorn-Bold.woff') format('woff');;
+     font-style: normal;
+  }
+  @font-face {
+    font-family: "Vollkorn-BoldItalic";
+    src: url("../fonts/Vollkorn-BoldItalic.ttf") format('truetype'),
+     url('../fonts/Vollkorn-BoldItalic.woff') format('woff');;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: "Vollkorn-ExtraBold";
+    src: url("../fonts/Vollkorn-ExtraBold.ttf") format('truetype'),
+     url('../fonts/Vollkorn-ExtraBold.ttf') format('woff');;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Vollkorn-Italic";
+    src: url("../fonts/Vollkorn-Italic.ttf") format('truetype'),
+     url('../fonts/Vollkorn-Italic.woff') format('woff');;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: "Vollkorn-Medium";
+    src: url("../fonts/Vollkorn-Medium.ttf") format('truetype'),
+     url('../fonts/Vollkorn-Medium.woff') format('woff');;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Vollkorn-MediumItalic";
+    src: url("../fonts/Vollkorn-MediumItalic.ttf") format('truetype'),
+     url('../fonts/Vollkorn-MediumItalic.woff') format('woff');;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: "Vollkorn-Regular";
+    src: url("../fonts/Vollkorn-Regular.ttf") format('truetype'),
+     url('../fonts/Vollkorn-Regular.woff') format('woff');;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "RVollkorn-SemiBold";
+    src: url("../fonts/Vollkorn-SemiBold.ttf") format('truetype'),
+     url('../fonts/Vollkorn-Semibold.woff') format('woff');;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: "Vollkorn-BlackItalic";
+    src: url("../fonts/Vollkorn-BlackItalic.ttf") format('truetype'),
+     url('../fonts/Vollkorn-BoldItalic.woff') format('woff'); ;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: "Vollkorn-SemiBoldItalic";
+    src: url("../fonts/Vollkorn-SemiBoldItalic.ttf") format('truetype'),
+     url('../fonts/Vollkorn-SemiboldItalic.woff') format('woff');;
+    font-style: italic;
+  }

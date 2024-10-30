@@ -1,0 +1,690 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    width: 1444px;
+    display: block;
+    margin: 0 auto;
+    font-family: "Vollkorn-Regular";
+    font-weight: 500;
+    position: relative;
+    background: rgba(137, 209, 217, 1);
+
+  }
+
+
+
+  section {
+z-index: 5;
+    border-color: white;
+    box-sizing: border-box;
+    border-style: solid;
+   border: 3px solid white;
+    margin: 0 auto;
+    position: relative;
+    width: 100%;
+}
+
+
+/* Блок 1 */
+.cover {
+    display: flex;
+    flex-direction: column;
+    width: 1439px;
+    height:940px ;
+  
+}
+.txt {
+    margin-top: 50px;
+    margin-left: 55px;
+    display: flex;
+     text-align: center;
+}
+.top1{
+   
+    font-weight: 700;
+    font-size: 24px;
+
+    font-family: "Vollkorn", serif;
+   
+}
+.top2 {
+    font-weight: 800;
+    font-size: 96px;
+     line-height: 55px;
+}
+#title-cover {
+    width: min-content;
+    margin: 0px auto;
+}
+
+#line-cover {
+    top: 130px;
+    left: 90px;
+    position: absolute;
+    width: 1035.22px;
+    height: 554px;
+}
+
+
+#img-grass1 {
+    
+    top: 530px;
+    position: absolute;
+}
+
+#img-grass2 {
+   
+    top: 730px;
+    position: absolute;
+}
+#flag-cover {
+    top: 425px;
+    left: 1100px;
+    position: absolute;
+    width: 133.5px;
+    height: 174.57px;
+}
+
+.green-line {
+    z-index: 1;
+    position: relative;
+    top:600px ;
+    background-color: rgba(79, 126, 69, 1);
+    width: 1439px;
+    height: 215px;
+}
+
+#whiteline {
+    z-index: 2;
+    top: 605px;
+    left: 450px;
+    position: absolute;
+    width: 730px;
+    height:550px ;
+}
+/* Конец блок 1 */
+
+
+/* Блок 2 */
+.about {
+    width: 1439px;
+    height: 1162px;
+    background-color: rgba(79, 126, 69, 1);
+} 
+.circle-one {
+    z-index: 2;
+    top: 20px;
+    position: relative;
+}
+#cirlce1 {
+    position: absolute;
+}
+#cirlce2 {
+    top: 85px;
+    position: absolute;
+}
+#flag {
+
+    top: 330px;
+    position: absolute;
+}
+.circle-font {
+    top: 375px;
+    left: 55px;
+    position: relative;
+    z-index: 3;
+    font-weight: 500;
+    font-size: 64px;
+
+}
+.about-txt1 {
+    z-index: 3;
+   margin-top: 250px;
+    left: 650px;
+    line-height: 55.72px;
+    color: rgba(255, 255, 255, 1);
+    font-weight: 500;
+    font-size: 40px;
+    position: absolute;
+}
+
+#line3 {
+    left: 80px;
+    position: absolute;
+    z-index: 3;
+    width:413px;
+    height: 504.93px;
+    top: 1690px;
+}
+/* Конец блок 2 */
+
+
+/* Блок 3 */
+.LIGATURE {
+    width: 1439px;
+    height: 1562px;
+    background-color: rgba(79, 126, 69, 1);
+}
+#title-LIGATURE {
+    color: white;
+    top: -40px;
+    position: relative;
+    font-weight: 500;
+    font-size: 64px;
+    text-align: center;
+}
+#flag2 {
+    left: 480px;
+    top: 30px;
+    position: relative;
+}
+
+
+#line4 {
+    margin-top: -70px;
+    left: 390px;
+    z-index: 3;
+    position: absolute;
+}
+
+
+#circle3  {
+    width: 450px;
+    left: 990px;
+    position: absolute;
+}
+#circle4  {
+    width: 350px;
+    left: 1090px;
+    margin-top: 70px;
+    position: absolute;
+}
+
+#fi {
+    position: relative;
+    left: 220px;
+
+}
+#ffi {
+    position: relative;
+    left: 400px;
+    top: 150px;
+    
+}
+#fii {
+    position: relative;
+    left: -250px;
+    top: 450px;
+}
+
+.Ellipse {
+    top: 2360px;
+    left: 325px;
+    z-index: 3;
+    position: absolute;
+}
+
+.Ellipse2 {
+    top: 2440px;
+    left: 845px;
+    z-index: 3;
+    position: absolute;
+}
+.Ellipse3 {
+    top: 2460px;
+    left: 758px;
+    z-index: 3;
+    position: absolute;
+}
+.Ellipse4 {
+    top: 2730px;
+    left: 390px;
+    z-index: 3;
+    position: absolute;
+}
+
+
+
+#cirlce5 {
+
+    z-index: 2;
+   left: 0px;
+    top: 3350px;
+position: absolute;
+}
+#cirlce6 {
+    left: 0px;
+    top: 3255px;
+    position: absolute;
+}
+
+#flag4 {
+    z-index: 3;
+    left: 20px;
+    top: -85px;
+    position: relative;
+}
+.circle-font2 {
+   
+    top: -165px;
+    left: 75px;
+    position: relative;
+    z-index: 3;
+    font-weight: 500;
+    font-size: 64px;
+}
+
+.circle-font9 {
+    color: aliceblue;
+    top: -110px;
+    left: 65px;
+    position: relative;
+    z-index: 3;
+    font-weight: 500;
+    font-size: 64px;
+}
+/* Конец блок 3 */
+
+
+/* Блок 4 */
+.block3 {
+    width: 1439px;
+    height: 562px;
+    background-color: rgba(79, 126, 69, 1);
+}
+.block3 ul{
+    width: max-content;
+    position:absolute;
+    left: 746px;
+    margin-top: -580px;
+}
+.block3 ul li {
+    padding: 8px;
+}
+
+.font1 {
+    color: white;
+}
+.f1 {
+    font-weight: 400;
+    font-size: 40px; 
+}
+.f2 {
+    
+    font-weight: 500;
+     font-size: 40px;
+}
+.f3 {
+    font-weight: 600; font-size: 40px;
+}
+.f4 {
+    font-weight: 700; font-size: 40px;
+}
+.f5 {
+    font-weight: 800; font-size: 40px;
+}
+
+.f6 {
+    font-weight: 900; font-size: 40px;
+}
+.f7 {
+    font-weight: 900; font-size: 40px;
+}
+.f8 {
+    font-style: italic;  font-weight: 500; font-size: 40px;
+}
+.f9 {
+    font-style: italic; color: white; font-weight: 600; font-size: 40px;
+}
+.f10 {
+    font-weight: 700; font-size: 40px;
+}
+.f11 {
+    font-style: italic; color: white; font-weight: 800; font-size: 40px
+}
+.f12 {
+    font-style: italic; color: white; font-weight: 900; font-size: 40px;
+}
+.line-vert {
+    background-color:rgba(79, 126, 69, 1) ;
+    top: 100px;
+    position: relative;
+    left: 1424px;
+    border-right:1px solid white;
+    width: 15px;
+    height: 650px;
+}
+
+.txt-block3 {
+    position: relative;
+    top: -600px;
+
+}
+
+#block3-line {
+    left: 270px;
+    position: relative;
+    top: -660px;
+}
+#flag-bl4 {
+    position: relative;
+    top: -50px;
+    left: 20px;
+}
+.circle-font2 {
+    color: white;
+}
+.title-nlock4 {
+    width: min-content;
+    left: 700px;
+    top: -720px;
+    position: relative;
+}
+
+/* Конец блок 4 */
+
+
+
+
+.alph {
+    justify-content: center;
+    display: flex;
+
+}
+.alph h1{
+    padding: 30px;
+    color: white;
+  font-weight: 400;
+  font-size: 300px;
+
+}
+
+.block5 {
+    
+    width: 1439px;
+    height: 2062px;
+    background-color: rgba(79, 126, 69, 1);
+}
+.dop {
+    position: relative;
+}
+.one {
+    left: 100px;
+    top: 298px;
+}
+.two {
+    left: 155px;
+    top: 298px;
+}
+.three {
+    top: 129px;
+    left: 310px;
+}
+
+.dop-line {
+    left: 85px;
+    top: 268px;
+    position: relative;
+    background-color: black;
+    width: 236px;
+    height: 5px;
+}
+
+.dop-line2 {
+    position: relative;
+    top: 66px;
+    left: 479px;
+    background-color: black;
+    rotate: 74.07deg;
+    width: 130px;
+    height: 5px;
+}
+
+.dop-line3 {
+    margin-top: 51px;
+ left: 858px;
+    position: absolute;
+    background-color: black;
+    width: 5px;
+    height:210px;
+}
+.four {
+    left: 370px;
+    top: 113px;
+}
+.five {
+    left: 300px;
+top: 284px;
+}
+.six {
+    left: 330px;
+    top: 284px;
+}
+
+.seven {
+    left: 740px;
+    top: 295px;
+}
+
+.eight {
+    left: 629px;
+    top: 115px;
+}
+.bukvi {
+    margin-top: -120px;
+}
+
+#line-bl5 {
+    position: absolute;
+    top: 4150px;
+    left: 480px;
+}
+
+.txt-under-alp {
+    margin-top: -55px;
+  
+    text-align: center;
+    display: flex;
+}
+
+.txt-under-alp h3{
+    line-height: 35px;
+    font-family: "Vollkorn-Regular";
+    color: white;
+    font-weight: 400;
+    font-size: 24px;
+
+}
+#txt-under1 {
+    margin-left: 100px;
+}
+#txt-under2 {
+    margin-left: 55px;
+}
+#txt-under3 {
+    margin-left: 35px;
+}
+#txt-under4 {
+    margin-left: 80px;
+}
+#txt-under5 {
+    margin-left: 70px;
+}
+#kalaska {
+    left: 430px;
+    position: relative;
+}
+
+.h4-bl5 {
+    display:flex ;
+    max-width: 395px;
+    position: relative;
+    top: -644px;
+    left: 510px;
+    rotate: -43.08deg;
+    font-size: 64px;
+    font-weight: 400;
+    color: black;
+}
+#h4-bl51 {
+    left: -15px;
+    position: relative;
+    top: 5px;
+    font-size: 96px;
+}
+#h4-bl52 {
+    position: relative;
+    top: 35px;
+}
+
+
+#cirlce9 {
+    z-index: 2;
+    left: 0px;
+     top: 4900px;
+ position: absolute;
+}
+#cirlce10 {
+    z-index: 1;
+    left: 0px;
+     top: 4800px;
+ position: absolute;
+}
+
+
+.circle-font3  {
+    color: white;
+    top: -150px;
+    left: 75px;
+    position: relative;
+    z-index: 3;
+    font-weight: 500;
+    font-size: 64px;
+}
+
+#flag-bl5 {
+    top: -80px;
+    position: relative;
+    left: 335px;
+}
+
+.title-num {
+    width: 400px;
+    left: 100px;
+    position: relative;
+    top:  -500px;
+}
+
+
+
+
+
+
+
+/* блок 6 */
+.block6 {
+    margin-top: -230px;
+    width: 1439px;
+    height: 1523px;
+    background-color: rgba(79, 126, 69, 1);
+}
+
+
+#line-bl6 {
+    position: relative;
+    top: -435px;
+    left: 80px;
+}
+
+#circle-last {
+    left: 875px;
+    top: 5450px;
+    position: absolute;
+}
+#circle-last2 {
+    left: 985px;
+    top: 5530px;
+    position: absolute;
+}
+
+.alph2 {
+    top: 5680px;
+    left: 225px;
+    position: absolute;
+    flex-direction: column;
+    display: flex;
+}
+.st1 {
+    display: flex;
+}
+.st2 {
+    display: flex;
+}
+.st1 h3 {
+    color: white;
+    font-weight: 400;
+    font-size: 200px;
+    padding: 10px;
+}
+.st2 h3 {
+   
+    padding: 10px;
+    color: white;
+    font-weight: 400;
+    font-size: 200px;
+}
+
+#flag-bl6 {
+    position: absolute;
+    top: 6280px;
+    left: 630px;
+}
+.circle-font4 {
+    top: 6330px;
+    position: absolute;
+left: 680px;
+
+    color: white;
+  
+    z-index: 3;
+    font-weight: 500;
+    font-size: 64px;
+}
+
+.art {
+left: 5%;
+    align-items:baseline;
+    top: 6500px;
+    position: absolute;
+    display: flex;
+}
+.art img {
+   padding: 20px;
+}
+.footer {
+    top: 7274px;
+    position: absolute;
+}
+
+.footer-txt {
+    left: 6%;
+    text-align: center;
+    justify-content: center;
+    top: 7450px;
+    position: absolute;
+    display: flex;
+
+}
+.footer-txt h5 {
+    padding: 80px;
+    font-weight: 500;
+    font-size: 40px;
+    color: white;
+}
+/* Конец блок 6 */
+
+
+#txt-bl3-h1 {
+color: black;
+}
